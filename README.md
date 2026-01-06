@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Nischal Bhusal
+# 👋 Hi! I'm Nischal Bhusal.
 
 ### 🎓 Electronics, Communication & Information Engineering Student | 📍 Nepal
-### 💡 Passionate about Data Pipelines, Machine Learning & Building Intelligent Systems
+### 💡 Passionate about Data Pipelines, Machine Learning & Data and Business Analytics
 
 </div>
 
@@ -12,13 +12,13 @@
 ## 🔧 **Tech Stack**
 
 **💻 Programming & Frameworks**
-`Python` `Pandas` `NumPy` `SQL` `C` `C++`
+`Python` `Pandas` `NumPy` `SQL` `C` `C++` `MatPlotLib`
 
 **🗃️ Databases & Platforms**
 `MySQL` `PostgreSQL` `SQLite`
 
 **📊 Visualization & BI Tools**
-`Tableau` `Excel`
+`Tableau` `Excel` `Power BI`
 
 **🛠️ Development & Tools**
 `Git` `GitHub` `Jupyter Notebook` `VS Code`
@@ -31,33 +31,15 @@
 > **An end-to-end data pipeline from web scraping to interactive dashboards.**
 - **🛠️ Tech:** Python (Pandas, BeautifulSoup), SQL, Tableau
 - **🎯 Key Insight:** Discovered **80% of teams** relied on **1-2 key players**; the champion was the only balanced team.
-- **🔗 Links:** [View Code on GitHub](#) | [Live Dashboard](#)
-
-### ♿ **Sahara - Nepali Voice Controlled Wheelchair Model**
-> **Built an offline voice recognition system for assistive technology.**
-- **🛠️ Tech:** Python (Librosa, NumPy), CNN-GRU Model, Raspberry Pi, YOLOv8
-- **🎯 Outcome:** Achieved **87% accuracy** on Nepali command recognition.
-- **🔗 Link:** [View Project on GitHub](#)
+- **🔗 Links:** [View Code on GitHub](#) 
 
 ---
 
 ## 📚 **Currently Exploring**
 - Machine Learning Operations (MLOps)
 - Advanced SQL & Database Optimization
-- Cloud Platforms (AWS/GCP Fundamentals)
 
----
 
-## 📈 **GitHub Activity**
-
-<div align="center">
-  
-![Nischal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nischal134&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nischal134&layout=compact&theme=default)
-
-</div>
-
----
 
 ## 📫 **Connect With Me**
 
@@ -76,20 +58,9 @@
 <div align="center">
   
 ---
-*⚡ **Fun Fact:** I enjoy discussing cricket strategy as much as I enjoy optimizing a SQL query!*
+*⚡ **Fun Fact:** I enjoy discussing Business strategy as much as I enjoy optimizing a SQL query, to support my thought process!*
 
 </div>
 <!--
 **Nischal134/Nischal134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
