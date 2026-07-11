@@ -2,7 +2,7 @@
 
 # 👋 Hi! I'm Nischal Bhusal.
 
-### 🎓 Electronics, Communication & Information Engineering Student | 📍 Nepal
+### 🎓 Electronics, Communication & Information Engineering Graduate | 📍 Nepal
 ### 💡 Passionate about Data Pipelines, Machine Learning & Data and Business Analytics
 
 </div>
