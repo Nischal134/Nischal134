@@ -12,7 +12,7 @@
 ## 🔧 **Tech Stack**
 
 **💻 Programming & Frameworks**
-`Python` `Pandas` `NumPy` `SQL` `C` `C++` `MatPlotLib`
+`Python` `Pandas` `NumPy` `SQL` `C` `C++` `MatPlotLib` `Javascript`
 
 **🗃️ Databases & Platforms**
 `MySQL` `PostgreSQL` `SQLite`
@@ -38,6 +38,7 @@
 ## 📚 **Currently Exploring**
 - Machine Learning Operations (MLOps)
 - Advanced SQL & Database Optimization
+- Web development fundamentals
 
 
 
